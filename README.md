@@ -1,4 +1,4 @@
-# CAP_6515_Computational_Complexity
+# Computational_Complexity
 
 **Course Contents:**
 
