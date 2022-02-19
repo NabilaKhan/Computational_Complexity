@@ -13,8 +13,10 @@
 3. Shortest Unique substring problem 
 
 - Home Work 3:
+Formalzinig pseudocode to predic RNA secondary structure based on RNA base pair maximization problem
 
 - Home Work 4:
+Hamiltonian path and Eulerian path problems
 
 - Midterm Exam:
 
