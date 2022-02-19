@@ -12,14 +12,18 @@
 2. Suffix tree for large alphabet
 3. Shortest Unique substring problem 
 
-- Home Work 3:
+- Home Work 3:  
 Formalzinig pseudocode to predic RNA secondary structure based on RNA base pair maximization problem
 
-- Home Work 4:
+- Home Work 4:  
 Hamiltonian path and Eulerian path problems
 
 - Midterm Exam:
+1. Suffix tree and suffix array
+2. Dynamic programming
 
 - Final Exam:
+1. Sequence Alignment
+2. Random shuffling of DNA sequences
 
 - Paper Presentation:
