@@ -26,4 +26,5 @@ Hamiltonian path and Eulerian path problems
 1. Sequence Alignment
 2. Random shuffling of DNA sequences
 
-- Paper Presentation:
+- Paper Presentation:  
+Presented the paper "Sparse RNA folding: Time and Space Efficient Algorithms"
